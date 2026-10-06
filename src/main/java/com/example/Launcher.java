@@ -1,4 +1,4 @@
-package com.example.forcopy;
+package com.example;
 
 import javafx.application.Application;
 
