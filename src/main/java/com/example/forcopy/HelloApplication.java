@@ -1,4 +1,4 @@
-package com.example.simulatingoperationofbengalmeat;
+package com.example.forcopy;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
