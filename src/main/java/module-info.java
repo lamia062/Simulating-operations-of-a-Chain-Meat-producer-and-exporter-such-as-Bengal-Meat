@@ -3,6 +3,8 @@ module com.example.forcopy {
     requires javafx.fxml;
 
 
-    opens com.example to javafx.fxml;
-    exports com.example;
+    opens com.example.forcopy to javafx.fxml;
+    exports com.example.forcopy;
+    exports com.example.forcopy.ProductionManager;
+    opens com.example.forcopy.ProductionManager to javafx.fxml;
 }
