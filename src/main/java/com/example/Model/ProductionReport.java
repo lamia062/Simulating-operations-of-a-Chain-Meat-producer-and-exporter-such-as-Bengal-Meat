@@ -1,4 +1,4 @@
-package com.example.forcopy.Model;
+package com.example.Model;
 
 public class ProductionReport {
 }
